@@ -1,6 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:dns_alias/providers/cloudflare_provider.dart';
-import 'package:dns_alias/screens/details_screen.dart';
+import 'package:dns_payments/providers/cloudflare_provider.dart';
+import 'package:dns_payments/screens/details_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

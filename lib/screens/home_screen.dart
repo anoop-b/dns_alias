@@ -1,5 +1,5 @@
-import 'package:dns_alias/screens/about_screen.dart';
-import 'package:dns_alias/screens/records_screen.dart';
+import 'package:dns_payments/screens/about_screen.dart';
+import 'package:dns_payments/screens/records_screen.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {

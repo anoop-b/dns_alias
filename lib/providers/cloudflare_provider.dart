@@ -1,9 +1,9 @@
 import 'dart:convert';
 import 'dart:io';
+import 'package:dns_payments/models/cloudflare.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:http/http.dart' as http;
 
-import 'package:dns_alias/models/cloudflare.dart';
 
 class Cloudflare {
   Future<List<Answer>> getTxtRecords(String domain) async {

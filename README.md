@@ -1,4 +1,4 @@
-# dns_alias
+# dns_payments
 
 A new Flutter project.
 

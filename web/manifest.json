@@ -1,6 +1,6 @@
 {
-    "name": "dns_alias",
-    "short_name": "dns_alias",
+    "name": "dns_payments",
+    "short_name": "dns_payments",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

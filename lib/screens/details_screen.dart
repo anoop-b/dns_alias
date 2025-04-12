@@ -1,5 +1,5 @@
-import 'package:dns_alias/models/cloudflare.dart';
-import 'package:dns_alias/models/txt_response.dart';
+import 'package:dns_payments/models/cloudflare.dart';
+import 'package:dns_payments/models/txt_response.dart';
 import 'package:flutter/material.dart';
 
 class DetailsScreen extends StatelessWidget {
